@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "noEmit": true, // we don't want to emit any files, TypeScript won't compile any files bc we have Babel
+    "baseUrl": "./src" // this is where to look for our TypeScript files, in the src directory
+  }
+}
